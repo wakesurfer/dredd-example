@@ -2,3 +2,4 @@ node_modules
 npm-debug.log
 .wercker
 path.txt
+package-lock.json
